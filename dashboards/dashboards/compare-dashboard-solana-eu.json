@@ -4495,7 +4495,7 @@
           ],
           "type": "piechart"
         },
-                {
+        {
           "datasource": {
             "type": "prometheus",
             "uid": "grafanacloud-prom"
@@ -8375,6 +8375,6 @@
   "timezone": "browser",
   "title": "Compare Dashboard: Solana (EU)",
   "uid": "be82wni0bhukgd",
-  "version": 118,
+  "version": 119,
   "weekStart": "monday"
 }
